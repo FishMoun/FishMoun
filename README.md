@@ -124,9 +124,18 @@
 
 ## 📊 GitHub 数据
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FishMoun&show_icons=true&theme=default)
+## 📊 GitHub 数据
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FishMoun&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=FishMoun&style=flat-square)
+
+![GitHub followers](https://img.shields.io/github/followers/FishMoun?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/FishMoun?style=flat-square)
+
+<!-- GitHub Readme Stats 公共服务偶尔会限流，若显示异常可暂时注释 -->
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FishMoun&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FishMoun&layout=compact&theme=transparent)
+-->
 
 ---
 
